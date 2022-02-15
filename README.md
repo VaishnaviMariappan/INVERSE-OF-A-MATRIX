@@ -24,7 +24,7 @@ add the coding and end the program
 ## Program:
 ```
 #Program to find the inverse of the matrix
-#Developed by:Vaishnvai M
+#Developed by:Vaishnavi M
 #RegisterNumber: 21500310
 import numpy as np
 A=np.array([[6,2,3],[3,1,1],[10,3,4]])
